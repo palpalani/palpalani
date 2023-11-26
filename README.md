@@ -18,7 +18,7 @@ Passionate and detail-oriented software developer with a proven track record of 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&labelColor=2f2625)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&labelColor=2f2625)
-![](https://img.shields.io/badge/Zsh-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&labelColor=2f2625)
+![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&labelColor=2f2625)
 
 ![](https://img.shields.io/badge/Tools-Vagrant-informational?style=flat&logo=vagrant&logoColor=white&labelColor=2f2625)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&labelColor=2f2625)
