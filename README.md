@@ -1,83 +1,65 @@
-# Hello, I'm Palaniappan P 👋
+# Palaniappan P
 
-## 🚀 About Me
+Engineering Manager & Technical Architect specializing in high-volume SaaS platforms, Laravel/PHP ecosystems, and AWS infrastructure optimization.
 
-Passionate and detail-oriented software developer with a proven track record of delivering high-quality web applications. Specializing in PHP, Laravel, Livewire, and Alpine.js, I bring a wealth of experience in AWS cloud services and WordPress/WooCommerce performance optimization.
+## Summary
 
-## 💻 Tech Stack
+15+ years building and scaling multi-tenant SaaS platforms serving enterprise eCommerce markets. Currently Engineering Manager/Tech Lead at TargetBay, leading cross-product architecture for email/SMS marketing automation, loyalty programs, and review management systems. Deep expertise in backend architecture, high-throughput messaging systems, cloud cost optimization, and team leadership. Active Laravel/PHP open source contributor with 102 repositories.
 
-- **Languages:** ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&labelColor=2f2625) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&labelColor=2f2625) ![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=nodejs&logoColor=white&labelColor=2f2625)
-- **Frameworks:** ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&labelColor=2f2625)
-- **Frontend:** ![](https://img.shields.io/badge/Code-Livewire-informational?style=flat&logo=livewire&logoColor=white&labelColor=2f2625) ![](https://img.shields.io/badge/Code-AlpineJs-informational?style=flat&logo=alipnejs&logoColor=white&labelColor=2f2625) ![](https://img.shields.io/badge/Code-Blade-informational?style=flat&logo=blade&logoColor=white&labelColor=2f2625) ![](https://img.shields.io/badge/Code-ReactJs-informational?style=flat&logo=reactjs&logoColor=white&labelColor=2f2625) ![](https://img.shields.io/badge/Code-NextJs-informational?style=flat&logo=javascript&logoColor=white&labelColor=2f2625)
-- **Cloud Services:** ![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=aws&logoColor=white&labelColor=2f2625) (EC2, S3, RDS, Lambda)
-- **Database:** ![](https://img.shields.io/badge/Code-MySql-informational?style=flat&logo=mysql&logoColor=white&labelColor=2f2625), ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&labelColor=2f2625)
-- **CMS:** ![](https://img.shields.io/badge/Code-WordPress-informational?style=flat&logo=wordpress&logoColor=white&labelColor=2f2625) ![](https://img.shields.io/badge/Code-WooCommerce-informational?style=flat&logo=woocommerce&logoColor=white&labelColor=2f2625)
-- **Tools:** ![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&labelColor=2f2625) ![](https://img.shields.io/badge/Code-Composer-informational?style=flat&logo=composer&logoColor=white&labelColor=2f2625) ![](https://img.shields.io/badge/Code-NPM-informational?style=flat&logo=npm&logoColor=white&labelColor=2f2625)
+## Core Expertise
 
-## 🔧 Technologies & Tools
+- **Backend Architecture & Engineering:** Laravel, PHP, Node.js with focus on scalable, maintainable systems
+- **Multi-tenant SaaS Platform Design:** Production systems supporting large concurrent user bases
+- **High-volume Messaging Systems:** Email/SMS delivery infrastructure at scale
+- **AWS Infrastructure Architecture:** EC2, S3, RDS, Lambda, SQS with proven cost optimization results
+- **Engineering Team Leadership:** Managing cross-functional teams delivering production SaaS solutions
+- **Open Source Development:** Sustained contributions to Laravel/PHP ecosystem
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&labelColor=2f2625)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&labelColor=2f2625)
-![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&labelColor=2f2625)
+## Professional Experience
 
-![](https://img.shields.io/badge/Tools-Vagrant-informational?style=flat&logo=vagrant&logoColor=white&labelColor=2f2625)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&labelColor=2f2625)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&labelColor=2f2625)
-![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=terraform&logoColor=white&labelColor=2f2625)
-![](https://img.shields.io/badge/Tools-Microsoft_Terminal-informational?style=flat&logo=microsoftterminal&logoColor=white&labelColor=2f2625)
+### TargetBay | Engineering Manager / Tech Lead
 
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&labelColor=2f2625)
-![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&logoColor=white&labelColor=2f2625)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&labelColor=2f2625)
-![](https://img.shields.io/badge/Cloud-Linode-informational?style=flat&logo=linode&logoColor=white&labelColor=2f2625)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&labelColor=2f2625)
+Lead engineering for enterprise eCommerce marketing platform serving multiple product lines:
 
-## 🌱 What I'm Currently Learning
+- **[BayEngage](https://app.bayengage.com/):** Email and SMS marketing automation platform
+- **[BayRewards](https://bayrewards.io/):** Loyalty and referral program management system
+- **[BayReviews](https://app.targetbay.com/):** Customer review and reputation management software
+- **[InboxEagle](https://inboxeagle.com/):** Explore Top Email Templates with Real Deliverability Insights
+- **[TargetBay](https://targetbay.com/):** Integrated eCommerce marketing suite
 
-Dedicated to staying ahead in the ever-evolving tech landscape, I am currently exploring AI/Htmx to enhance my skills and deliver cutting-edge solutions.
+**Technical Achievements:**
+- Architected multi-tenant infrastructure supporting high-volume transactional messaging
+- Led AWS cost optimization initiatives across product portfolio
+- Designed scalable backend systems handling large concurrent user bases
+- Managed cross-product engineering teams delivering SaaS solutions
+- Implemented performance optimization strategies for WordPress/WooCommerce platforms
+- Built resilient queue processing systems using AWS SQS and Lambda
 
-## 👨‍💻 Projects
+## Open Source Contributions
 
-I'm living Chennai, IN., and currently working at [TargetBay](https://targetbay.com/).
+### Laravel Ecosystem Packages
 
-- **[BayEngage](https://app.bayengage.com/):** The Complete Email and SMS Marketing Tool.
-- **[BayRewards](https://bayrewards.io/):** Build customized Loyalty & Referrals programs to engage existing customers and reach new ones.
-- **[BayReviews](https://app.targetbay.com/):** Advanced Customer Review Management Software.
-- **[TargetBay](https://targetbay.com/):** All-in-one eCommerce Marketing Platform.
-- 
-## 🚀 AWS Achievements
+- **[laravel-sqs-queue-json-reader](https://github.com/palpalani/laravel-sqs-queue-json-reader)** — Custom SQS queue driver supporting plain JSON payloads (26★, 6 forks)
+- **[laravel-spamassassin-score](https://github.com/palpalani/laravel-spamassassin-score)** — SpamAssassin integration for content filtering and spam prevention (4★)
+- **[laravel-dns-deny-list-check](https://github.com/palpalani/laravel-dns-deny-list-check)** — DNS-based email validation and spam prevention (2★)
+- **[laravel-login-notifications](https://github.com/palpalani/laravel-login-notifications)** — User authentication notifications and security alerts (3★)
+- **[baylinks-laravel](https://github.com/palpalani/baylinks-laravel)** — BayLinks PHP SDK for Laravel integration
+- **[bayrewards-laravel](https://github.com/palpalani/bayrewards-laravel)** — BayRewards PHP SDK for Laravel integration
 
-- Successfully implemented scalable solutions on AWS, optimizing performance and ensuring reliability.
-- Leveraged AWS services like EC2, S3, RDS, and Lambda to build efficient and cost-effective architectures.
+**102 total repositories** | Arctic Code Vault Contributor
 
-## 🌐 WordPress/WooCommerce Optimization
+## Technical Environment
 
-- Improved website performance and user experience through effective WordPress/WooCommerce optimization techniques.
-- Implemented caching, asset minification, and other strategies to enhance site speed.
+**Backend:** PHP, Laravel, Node.js, JavaScript
+**Frontend:** React, Next.js, Livewire, Alpine.js
+**Cloud & Infrastructure:** AWS (EC2, S3, RDS, Lambda, SQS), Docker, Kubernetes, Terraform
+**Databases:** MySQL, PostgreSQL
+**E-commerce Platforms:** WordPress, WooCommerce
+**Tools:** Git, Composer, NPM, Vagrant
 
-## 📈 GitHub Stats
+## Contact
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=palpalani&show_icons=true&hide_border=true)
-
-## 🤝 Let's Connect
-
-- LinkedIn: [Palaniappan](https://www.linkedin.com/in/palpalani/)
-- Twitter: [@southdreamz](https://twitter.com/southdreamz)
-- Email: palani.p@gmail.com
-
-Happy Coding! 🚀
-
-<!--
-**palpalani/palpalani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**LinkedIn:** [linkedin.com/in/palpalani](https://www.linkedin.com/in/palpalani/)
+**Email:** palani.p@gmail.com
+**Twitter:** [@southdreamz](https://twitter.com/southdreamz)
+**Location:** Chennai, India
