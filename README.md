@@ -2,7 +2,7 @@
 
 Director of Technology at [TargetBay](https://targetbay.com/). Chennai, India.
 
-I have been building web and SaaS systems since 2002. I set architecture and engineering direction for TargetBay’s product suite: multi-tenant eCommerce marketing across email and SMS, reviews, loyalty, and deliverability. The same production work is behind the Laravel packages I maintain, and the n8n and LLM workflows I use to automate engineering and operations.
+I have been building web and SaaS systems since 2002. I set architecture and engineering direction for TargetBay’s product suite: multi-tenant eCommerce marketing across email and SMS, reviews, loyalty, and deliverability. Recent work is building AI agents for marketing operations and infrastructure, alongside the Laravel packages and n8n workflows that come out of the same production systems.
 
 ## Platforms
 
@@ -19,6 +19,13 @@ I have been building web and SaaS systems since 2002. I set architecture and eng
 - One architecture spanning email, reviews, rewards, and deliverability.
 - AWS cost control across the portfolio: EC2, S3, RDS, Lambda, and SQS.
 - Mentoring engineering teams on AI-assisted development and workflow automation.
+
+## Recent work
+
+- **[agentkit-bayengage](https://github.com/palpalani/agentkit-bayengage)** — OpenAI AgentKit connector so agents can send campaigns, manage contacts, and query BayEngage analytics.
+- **[AWSAgent](https://github.com/palpalani/AWSAgent)** — Natural-language agent for AWS resources through the Cloud Control API.
+- **[RootCauseAI](https://github.com/palpalani/RootCauseAI)** — Log analysis agent, built with LangChain and OpenAI, that finds errors, explains causes, and suggests fixes.
+- **[astro-agent-optimized](https://github.com/palpalani/astro-agent-optimized)** — Agent-oriented output for Astro projects.
 
 ## Open source
 
