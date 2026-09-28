@@ -1,65 +1,50 @@
 # Palaniappan P
 
-Engineering Manager & Technical Architect specializing in high-volume SaaS platforms, Laravel/PHP ecosystems, and AWS infrastructure optimization.
+Director of Technology at [TargetBay](https://targetbay.com/). Chennai, India.
 
-## Summary
+I have been building web and SaaS systems since 2002. I set architecture and engineering direction for TargetBay’s product suite: multi-tenant eCommerce marketing across email and SMS, reviews, loyalty, and deliverability. The same production work is behind the Laravel packages I maintain, and the n8n and LLM workflows I use to automate engineering and operations.
 
-15+ years building and scaling multi-tenant SaaS platforms serving enterprise eCommerce markets. Currently Engineering Manager/Tech Lead at TargetBay, leading cross-product architecture for email/SMS marketing automation, loyalty programs, and review management systems. Deep expertise in backend architecture, high-throughput messaging systems, cloud cost optimization, and team leadership. Active Laravel/PHP open source contributor with 102 repositories.
+## Platforms
 
-## Core Expertise
+- **[BayEngage](https://app.bayengage.com/)** — Email and SMS marketing automation for eCommerce.
+- **[BayRewards](https://bayrewards.io/)** — Loyalty and referral programs.
+- **[BayReviews](https://app.targetbay.com/)** — Customer reviews and reputation management.
+- **[InboxEagle](https://inboxeagle.com/)** — Email template research with deliverability signals: subject lines, inbox placement, and authentication.
+- **[TargetBay](https://targetbay.com/)** — The integrated suite those products belong to.
 
-- **Backend Architecture & Engineering:** Laravel, PHP, Node.js with focus on scalable, maintainable systems
-- **Multi-tenant SaaS Platform Design:** Production systems supporting large concurrent user bases
-- **High-volume Messaging Systems:** Email/SMS delivery infrastructure at scale
-- **AWS Infrastructure Architecture:** EC2, S3, RDS, Lambda, SQS with proven cost optimization results
-- **Engineering Team Leadership:** Managing cross-functional teams delivering production SaaS solutions
-- **Open Source Development:** Sustained contributions to Laravel/PHP ecosystem
+## How the systems are built
 
-## Professional Experience
+- Multi-tenant SaaS shared across the product lines above.
+- Queue-driven transactional messaging on AWS, using SQS and Lambda.
+- One architecture spanning email, reviews, rewards, and deliverability.
+- AWS cost control across the portfolio: EC2, S3, RDS, Lambda, and SQS.
+- Mentoring engineering teams on AI-assisted development and workflow automation.
 
-### TargetBay | Engineering Manager / Tech Lead
+## Open source
 
-Lead engineering for enterprise eCommerce marketing platform serving multiple product lines:
+Laravel tools maintained from production problems:
 
-- **[BayEngage](https://app.bayengage.com/):** Email and SMS marketing automation platform
-- **[BayRewards](https://bayrewards.io/):** Loyalty and referral program management system
-- **[BayReviews](https://app.targetbay.com/):** Customer review and reputation management software
-- **[InboxEagle](https://inboxeagle.com/):** Explore Top Email Templates with Real Deliverability Insights
-- **[TargetBay](https://targetbay.com/):** Integrated eCommerce marketing suite
+- **[laravel-sqs-queue-json-reader](https://github.com/palpalani/laravel-sqs-queue-json-reader)** — SQS queue driver that accepts plain JSON payloads.
+- **[laravel-spamassassin-score](https://github.com/palpalani/laravel-spamassassin-score)** — SpamAssassin scoring for message content.
+- **[laravel-dns-deny-list-check](https://github.com/palpalani/laravel-dns-deny-list-check)** — DNS deny-list checks for email validation.
+- **[laravel-login-notifications](https://github.com/palpalani/laravel-login-notifications)** — Login alerts for account security.
+- **[bayrewards-laravel](https://github.com/palpalani/bayrewards-laravel)** — Laravel SDK for BayRewards.
+- **[baylinks-laravel](https://github.com/palpalani/baylinks-laravel)** — Laravel SDK for BayLinks.
 
-**Technical Achievements:**
-- Architected multi-tenant infrastructure supporting high-volume transactional messaging
-- Led AWS cost optimization initiatives across product portfolio
-- Designed scalable backend systems handling large concurrent user bases
-- Managed cross-product engineering teams delivering SaaS solutions
-- Implemented performance optimization strategies for WordPress/WooCommerce platforms
-- Built resilient queue processing systems using AWS SQS and Lambda
+## Stack
 
-## Open Source Contributions
+**Application:** PHP, Laravel, Node.js, React, Next.js, Livewire
 
-### Laravel Ecosystem Packages
+**Cloud:** AWS (EC2, S3, RDS, Lambda, SQS), Docker, Kubernetes, Terraform
 
-- **[laravel-sqs-queue-json-reader](https://github.com/palpalani/laravel-sqs-queue-json-reader)** — Custom SQS queue driver supporting plain JSON payloads (26★, 6 forks)
-- **[laravel-spamassassin-score](https://github.com/palpalani/laravel-spamassassin-score)** — SpamAssassin integration for content filtering and spam prevention (4★)
-- **[laravel-dns-deny-list-check](https://github.com/palpalani/laravel-dns-deny-list-check)** — DNS-based email validation and spam prevention (2★)
-- **[laravel-login-notifications](https://github.com/palpalani/laravel-login-notifications)** — User authentication notifications and security alerts (3★)
-- **[baylinks-laravel](https://github.com/palpalani/baylinks-laravel)** — BayLinks PHP SDK for Laravel integration
-- **[bayrewards-laravel](https://github.com/palpalani/bayrewards-laravel)** — BayRewards PHP SDK for Laravel integration
+**Data:** MySQL, PostgreSQL, Redis
 
-**102 total repositories** | Arctic Code Vault Contributor
+**Automation:** n8n, LLM workflow automation
 
-## Technical Environment
-
-**Backend:** PHP, Laravel, Node.js, JavaScript
-**Frontend:** React, Next.js, Livewire, Alpine.js
-**Cloud & Infrastructure:** AWS (EC2, S3, RDS, Lambda, SQS), Docker, Kubernetes, Terraform
-**Databases:** MySQL, PostgreSQL
-**E-commerce Platforms:** WordPress, WooCommerce
-**Tools:** Git, Composer, NPM, Vagrant
+**Commerce:** Shopify, WooCommerce, and related store platforms
 
 ## Contact
 
 **LinkedIn:** [linkedin.com/in/palpalani](https://www.linkedin.com/in/palpalani/)
 **Email:** palani.p@gmail.com
-**Twitter:** [@southdreamz](https://twitter.com/southdreamz)
-**Location:** Chennai, India
+**X:** [@southdreamz](https://twitter.com/southdreamz)
