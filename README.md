@@ -2,7 +2,7 @@
 
 Director of Technology at [TargetBay](https://targetbay.com/). Chennai, India.
 
-I have been building web and SaaS systems since 2002. I set architecture and engineering direction for TargetBay’s product suite: multi-tenant eCommerce marketing across email and SMS, reviews, loyalty, and deliverability. The same production work is behind the Laravel packages I maintain, and the n8n and LLM workflows I use to automate engineering and operations.
+I have been building web and SaaS systems since 2002. I set architecture and engineering direction for TargetBay’s product suite: multi-tenant eCommerce marketing across email and SMS, reviews, loyalty, and deliverability. Recent work is TarpsNow AI and [FactualMinds AI Agents](https://factualminds.com/ai-agents), alongside the Laravel packages and n8n workflows from those same production systems.
 
 ## Platforms
 
@@ -19,6 +19,11 @@ I have been building web and SaaS systems since 2002. I set architecture and eng
 - One architecture spanning email, reviews, rewards, and deliverability.
 - AWS cost control across the portfolio: EC2, S3, RDS, Lambda, and SQS.
 - Mentoring engineering teams on AI-assisted development and workflow automation.
+
+## Recent work
+
+- **TarpsNow AI** — Internal sales analyst, release v1.0.0 (25 September 2026). A Strands supervisor on Amazon Bedrock AgentCore calls an Odoo analyst and a document analyst. Employees ask in plain language and see the work: SQL, row counts, the Postgres role, data age, and document sources. Odoo lands in Postgres and dbt builds the marts. Documents come from a Bedrock Knowledge Base over Google Drive, plus the mailboxes that person may read. Every query runs as a Postgres role scoped to the asker’s department.
+- **[FactualMinds AI Agents](https://factualminds.com/ai-agents)** — The public practice for finding, building, and running eCommerce agents on AWS: support, sales, operations, inventory, and knowledge. Anything that moves money stops for a human approval.
 
 ## Open source
 
